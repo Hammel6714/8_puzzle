@@ -1,6 +1,6 @@
 # 8_puzzle
 
-##RUN
-'''sh
+## RUN
+```sh
 python 8_puzzle.py
-'''
+```
